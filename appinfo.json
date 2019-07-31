@@ -1,0 +1,10 @@
+{
+    "vendor": "Simple-Fast port",
+    "largeIcon": "largeIcon.png",
+    "icon": "images/score.png",
+    "main": "alert.html",
+    "id": "com.mkport.fruitninjajs",
+    "title": "FruitNinjaJS",
+    "type": "web",
+    "version": "0.1.1"
+}
